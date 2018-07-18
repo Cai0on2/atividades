@@ -1,7 +1,5 @@
-Essa atividade deverá ser feita em dupla. Você e seu colega desenvolverão, remotamente, duas histórias em conjunto. Uma será iniciada por você neste computador, numa branch com seu nome. A outra história pela outra pessoa, numa branch feita por ela.
-
-A ideia é que vocês escrevam apenas um parágrafo por vez, alternando entre escrever um parágrafo na sua história e o seguinte na do(a) colega.
-
-Quando terminarem de fazer um parágrafo, vocês deverão dar Push no git e esperar o(a) colega terminar de escrever o dele(a), e então, dar um Pull na branch deles e continuar a escrever na história deles de onde tiverem parado. 
-
-Você tem total liberdade para modificar trechos escritos por seu(ua) parceiro(a) na parte deles, mas vocês precisarão chegar a um acordo do que manter na hora de resolver os conflitos.
+﻿Luke estava cansado de sua vida de lol e resolveu jogar um novo jogo, que muitos diziam ser um jogo legal, mas que jogo será esse? Será que é bom? Pois bem, o jogo era FIFA
+e logo Luke se encantou com o jogo, suas taticas para armar jogadas e a possibilidade de ter vários grandes jogadores em seu time, tudo aquilo era demais, no entanto, um belo
+dia Luke estava jogando com alguns de seus novos amigos quando derrepente encontra um novo super jogador, ele possuia os melhores jogadores do mundo e seu time era imbativel,
+Luke tentou desafia-lo no entanto falhou em vão. A partir desse dia Luke largou os jogos e passou a se dedicar a arquitetura, contruiu grandes prédios e morreu aos 150 anos,
+sendo chamado de o novo Niemeyer.
